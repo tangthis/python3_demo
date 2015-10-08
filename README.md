@@ -7,6 +7,4 @@ python3_demo
 > Author : tangthis
 >
 > Email  : tangthis#163.com
->
-> Weixin : jerry0914
 
